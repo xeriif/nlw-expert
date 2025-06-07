@@ -1,8 +1,3 @@
-# Netlify
-
-- https://statuesque-basbousa-3a2646.netlify.app/
-
-
 # Projeto de Notas de Voz com Transcrição Automática
 
 Bem-vindo ao **NLW Expert**! Este é um aplicativo web inovador que permite **gravar notas de áudio** e **transcrevê-las automaticamente para texto**. Desenvolvido com as tecnologias modernas **Vite.js**, **React** e **TypeScript**, ele oferece uma experiência de usuário fluida, rápida e intuitiva para você organizar suas ideias, pensamentos ou lembretes diários.
