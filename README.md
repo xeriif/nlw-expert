@@ -26,6 +26,7 @@ Este projeto foi construído com um *stack* de tecnologias robusto e atualizado:
 ---
 ## ⚙️ Netlify
 
-* https://statuesque-basbousa-3a2646.netlify.app/
+Este projeto está hospedado e pode ser acessado através do Netlify:
 
----
+* **Link de Acesso**: [https://statuesque-basbousa-3a2646.netlify.app/](https://statuesque-basbousa-3a2646.netlify.app/)
+
